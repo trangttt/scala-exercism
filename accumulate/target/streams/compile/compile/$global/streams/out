@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Documents/PRACTICE/Golang/exercism/scala/accumulate/src/main/scala/Accumulate.scala:4:16: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: List[B][0m
+[0m[[0m[31merror[0m] [0m[0m        return b[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
