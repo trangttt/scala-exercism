@@ -1,0 +1,46 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Documents/PRACTICE/Golang/exercism/scala/hamming/src/test/scala/HammingTest.scala:7:5: not found: value Hamming[0m
+[0m[[0m[31merror[0m] [0m[0m    Hamming.distance("", "") should be (Some(0))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Documents/PRACTICE/Golang/exercism/scala/hamming/src/test/scala/HammingTest.scala:12:5: not found: value Hamming[0m
+[0m[[0m[31merror[0m] [0m[0m    Hamming.distance("A", "A") should be (Some(0))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Documents/PRACTICE/Golang/exercism/scala/hamming/src/test/scala/HammingTest.scala:17:5: not found: value Hamming[0m
+[0m[[0m[31merror[0m] [0m[0m    Hamming.distance("GGACTGA", "GGACTGA") should be (Some(0))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Documents/PRACTICE/Golang/exercism/scala/hamming/src/test/scala/HammingTest.scala:22:5: not found: value Hamming[0m
+[0m[[0m[31merror[0m] [0m[0m    Hamming.distance("A", "G") should be (Some(1))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Documents/PRACTICE/Golang/exercism/scala/hamming/src/test/scala/HammingTest.scala:27:5: not found: value Hamming[0m
+[0m[[0m[31merror[0m] [0m[0m    Hamming.distance("AG", "CT") should be (Some(2))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Documents/PRACTICE/Golang/exercism/scala/hamming/src/test/scala/HammingTest.scala:32:5: not found: value Hamming[0m
+[0m[[0m[31merror[0m] [0m[0m    Hamming.distance("AT", "CT") should be (Some(1))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Documents/PRACTICE/Golang/exercism/scala/hamming/src/test/scala/HammingTest.scala:37:5: not found: value Hamming[0m
+[0m[[0m[31merror[0m] [0m[0m    Hamming.distance("GGACG", "GGTCG") should be (Some(1))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Documents/PRACTICE/Golang/exercism/scala/hamming/src/test/scala/HammingTest.scala:42:5: not found: value Hamming[0m
+[0m[[0m[31merror[0m] [0m[0m    Hamming.distance("ACCAGGG", "ACTATGG") should be (Some(2))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Documents/PRACTICE/Golang/exercism/scala/hamming/src/test/scala/HammingTest.scala:47:5: not found: value Hamming[0m
+[0m[[0m[31merror[0m] [0m[0m    Hamming.distance("AAG", "AAA") should be (Some(1))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Documents/PRACTICE/Golang/exercism/scala/hamming/src/test/scala/HammingTest.scala:52:5: not found: value Hamming[0m
+[0m[[0m[31merror[0m] [0m[0m    Hamming.distance("AAA", "AAG") should be (Some(1))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Documents/PRACTICE/Golang/exercism/scala/hamming/src/test/scala/HammingTest.scala:57:5: not found: value Hamming[0m
+[0m[[0m[31merror[0m] [0m[0m    Hamming.distance("TAG", "GAT") should be (Some(2))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Documents/PRACTICE/Golang/exercism/scala/hamming/src/test/scala/HammingTest.scala:62:5: not found: value Hamming[0m
+[0m[[0m[31merror[0m] [0m[0m    Hamming.distance("GATACA", "GCATAA") should be (Some(4))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Documents/PRACTICE/Golang/exercism/scala/hamming/src/test/scala/HammingTest.scala:67:5: not found: value Hamming[0m
+[0m[[0m[31merror[0m] [0m[0m    Hamming.distance("GGACGGATTCTG", "AGGACGGATTCT") should be (Some(9))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Documents/PRACTICE/Golang/exercism/scala/hamming/src/test/scala/HammingTest.scala:72:5: not found: value Hamming[0m
+[0m[[0m[31merror[0m] [0m[0m    Hamming.distance("AATG", "AAA") should be (None)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/macbook/Documents/PRACTICE/Golang/exercism/scala/hamming/src/test/scala/HammingTest.scala:77:5: not found: value Hamming[0m
+[0m[[0m[31merror[0m] [0m[0m    Hamming.distance("ATA", "AGTG") should be (None)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m15 errors found[0m

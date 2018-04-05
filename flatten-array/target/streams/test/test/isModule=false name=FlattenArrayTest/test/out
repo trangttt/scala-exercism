@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mFlattenArrayTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- no nesting[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- flattens array with just integers present (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- 5 level nesting (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- 6 level nesting (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- 6 level nest list with null values (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- all values in nested list are null (pending)[0m[0m

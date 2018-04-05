@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mBookStoreTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Only a single book[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- Two of the same book (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- Empty basket (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- Two different books (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- Three different books (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- Four different books (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- Five different books (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- Two groups of four is cheaper than group of five plus group of three (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- Group of four plus group of two is cheaper than two groups of three (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- Two each of first 4 books and 1 copy each of rest (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- Two copies of each book (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- Three copies of first book and 2 each of remaining (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- Three each of first 2 books and 2 each of remaining books (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- Four groups of four are cheaper than two groups each of five and three (pending)[0m[0m
